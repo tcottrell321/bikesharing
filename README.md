@@ -1,6 +1,6 @@
 # The Des Moines, Iowa Investment Opportunity for Bike Sharing Company
 
-![alt text](https://github.com/tcottrell321/bikesharing/blob/master/picture.PNG "Logo Title Text 1")
+![alt text](https://github.com/tcottrell321/bikesharing/blob/master/Picture1.png "Logo Title Text 1")
 
 ## Investor Analysis Overview
 This analysis is focused on answering the following questions: 
