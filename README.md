@@ -26,19 +26,13 @@ This analysis is focused on answering the following questions:
 
 According to CrunchBase Research firm, in the last 15 years, over 150 bike-share startup companies have been created using a combination of private venture capital, subsidies and sponsorships from local city government. Multiple investment drivers exist, to include:
 
-•	The Sharing Economy.
-
-•	Development of new technologies such as GPS, smartphones, online payment systems, asset tracking devices and others supporting very diverse business models. 
-
-•	A need for cities to reduce greenhouse gases, mandated in some cities and counties in response to global warming. 
-
-•	Last Mile – providing solutions and encouragement for commuters to take public transportation with bike shares taking care of the “last mile” between public transportation drop off and the riders final destination (place of work, or home).
-
-•	As a launch point to expand into other transportation modalities such as electric bikes, scooters, and even micro-EV cars.  
-
-•	Revenue Business from Advertising, placement ads, etc.
-
-•	First Mover Advantage – in most cities, ride-share companies obtain permission from the local government to operate as a monopoly. As of now, Des Moines does not have another company applying for permits to operate, but that could change so its important to move quickly.  
+1) The Sharing Economy.
+2) Development of new technologies such as GPS, smartphones, online payment systems, asset tracking devices and others supporting very diverse business models. 
+3) A need for cities to reduce greenhouse gases, mandated in some cities and counties in response to global warming. 
+4) Last Mile – providing solutions and encouragement for commuters to take public transportation with bike shares taking care of the “last mile” between public transportation drop off and the riders final destination (place of work, or home).
+5) As a launch point to expand into other transportation modalities such as electric bikes, scooters, and even micro-EV cars.  
+6) Revenue Business from Advertising, placement ads, etc.
+7) First Mover Advantage – in most cities, ride-share companies obtain permission from the local government to operate as a monopoly. As of now, Des Moines does not have another company applying for permits to operate, but that could change so its important to move quickly.  
 
 With over 150 bike ride-share companies worldwide, and equity financing varying from China’s jugernaught  -- Ofo  -- raising $2.1B -- down to smaller companies like Viking Garage in Poland raising $25,000 of initial capital – to somewhere in the middle such as Lime’s startup here in San Mateo County – raising $765M over 5 rounds of funding and now valued at over $1B – the bike share craze has caught on and is fast becoming a regular part of our transportation eco-system. 
 
@@ -62,39 +56,39 @@ To support this analysis, a Tableau Storyboard can be found on Tableau’s Publi
 
 This report provides additional details below - not found in the Tableau Storyboard. 
 
-City Population – this slide shows a comparison between the population of NYC and that of Des Moines for properly scaling the business. For the purposes of this analysis, it is assumed that the size of the business is proportional to the population.
+_City Population_ – this slide shows a comparison between the population of NYC and that of Des Moines for properly scaling the business. For the purposes of this analysis, it is assumed that the size of the business is proportional to the population.
 
-Bike Membership – during the month of Aug, Citibike had 153,726 subscription customers. Using the same ratio as population, it is projected that Des Moines will capture about 3800 subscription customers.
+_Bike Membership_ – during the month of Aug, Citibike had 153,726 subscription customers. Using the same ratio as population, it is projected that Des Moines will capture about 3800 subscription customers.
 
-Projected Revenue – The Revenue shows actual revenue for Citibike for the month of Aug. Des Moines is projected revenue based on the smaller number of memberships, but also factors in less $ per ride on the fare to account for the difference in cost of living.
+_Projected Revenue_ – The Revenue shows actual revenue for Citibike for the month of Aug. Des Moines is projected revenue based on the smaller number of memberships, but also factors in less $ per ride on the fare to account for the difference in cost of living.
 
-Projected Trips – Again, 2,344,224 is the actual number of trips during Aug for Citibike. Using this we show a projected number of trips for Des Moines of 60,719. 
+_Projected Trips_ – Again, 2,344,224 is the actual number of trips during Aug for Citibike. Using this we show a projected number of trips for Des Moines of 60,719. 
 
-Membership Versus Customers – the pie chart shows that approximately 80% of the rides came from Subscribers and 20% came from Customers (non-subscribers). Citibike’s Aug report further mentioned that ridership is higher for Subscribers during regular workdays (M-F) and that on weekends they see higher numbers for Customers (non-subscribers) and seasonally during tourist season. 
+_Membership Versus Customers_ – the pie chart shows that approximately 80% of the rides came from Subscribers and 20% came from Customers (non-subscribers). Citibike’s Aug report further mentioned that ridership is higher for Subscribers during regular workdays (M-F) and that on weekends they see higher numbers for Customers (non-subscribers) and seasonally during tourist season. 
 
--- Investor Recommendation #1 : This might suggest a 2 prong marketing or promotional campaign. One for regular commuters and one for tourists. 
+-- _Investor Recommendation #1_ : This might suggest a 2 prong marketing or promotional campaign. One for regular commuters and one for tourists. 
 
-Membership By Gender  – this pie chart depicts the gender breakdown in ridership with 25% being females, about 65% being male and about 10% unknown. There is no indication in the Citibike data as to why there is such a big difference between male and female ridership. 
+_Membership By Gender_  – this pie chart depicts the gender breakdown in ridership with 25% being females, about 65% being male and about 10% unknown. There is no indication in the Citibike data as to why there is such a big difference between male and female ridership. 
 
--- Investor Recommendation #2: Further drilldown can be done to see if an opportunity exists to increase overall ridership among female participants. 
+-- _Investor Recommendation #2_: Further drilldown can be done to see if an opportunity exists to increase overall ridership among female participants. 
 
-Time of Day For Highest Utilization – this bar chart shows that the peak ridership is during the morning and afternoon commutes (7-9 am) and (5-6 pm). The lowest use is from 12 midnight through the early morning hours at 4 am. 
+_Time of Day For Highest Utilization_ – this bar chart shows that the peak ridership is during the morning and afternoon commutes (7-9 am) and (5-6 pm). The lowest use is from 12 midnight through the early morning hours at 4 am. 
 
--- Investor Recommendation #3: This might be the best time for maintenance and cleaning to optimize the usage of each bike. 
+-- _Investor Recommendation #3_: This might be the best time for maintenance and cleaning to optimize the usage of each bike. 
 
-Top Starting and Ending Locations – of the 781 bike stations, this bubble chart shows the highest use stations (larger bubble equals higher use). The August report comments that the busiest stations are those near major public transportation hubs and tourist attractions.
+_Top Starting and Ending Locations_ – of the 781 bike stations, this bubble chart shows the highest use stations (larger bubble equals higher use). The August report comments that the busiest stations are those near major public transportation hubs and tourist attractions.
 
--- Investor Recommendation #4: this suggest placement of bikes at hub transportation and tourist centers (bus stations, hotels, parks) etc.  
+-- _Investor Recommendation #4_: this suggest placement of bikes at hub transportation and tourist centers (bus stations, hotels, parks) etc.  
 
-Average Trip Duration By Age – this chart shows the average trip duration (in seconds) by age group. You can see that in general, younger riders (to the right on graph) are willing to ride longer distances of about 15 mins with an uptrend for riders <25 yrs old.  Older riders show times which have wider deviations in duration probably indicating more adhoc ridership from tourists. 
+_Average Trip Duration By Age_ – this chart shows the average trip duration (in seconds) by age group. You can see that in general, younger riders (to the right on graph) are willing to ride longer distances of about 15 mins with an uptrend for riders <25 yrs old.  Older riders show times which have wider deviations in duration probably indicating more adhoc ridership from tourists. 
 
--- Investor Recommendation #5: A further drilldown on the data might reveal if this conclusion is true. 
+-- _Investor Recommendation #5_: A further drilldown on the data might reveal if this conclusion is true. 
 
-Number of Bikes – Citibike currently has 12,805 bikes in their fleet. It is projected the Des Moines will initially need about 400 bikes. This number can be fine tuned with actual ridership data over time. 
+_Number of Bikes_ – Citibike currently has 12,805 bikes in their fleet. It is projected the Des Moines will initially need about 400 bikes. This number can be fine tuned with actual ridership data over time. 
 
-Bike Utilization – this chart shows total number of seconds used during trips for each bike id. The size of the dot and deeper color is proportional to higher utilization. Ideally, utilization which is evenly distributed across all bikes should correlate with similar repairs and maintenance. High usage for some bikes might indicate a faster wearout and replacement of that bike id. The Citibike August report commented that during the month of Aug 23,500 bike repairs and or inspections were conducted on bike assets. It is estimated that this required approximately 1 hr per repair/inspection and 138 bike technicians to conduct those repairs. 
+_Bike Utilization_ – this chart shows total number of seconds used during trips for each bike id. The size of the dot and deeper color is proportional to higher utilization. Ideally, utilization which is evenly distributed across all bikes should correlate with similar repairs and maintenance. High usage for some bikes might indicate a faster wearout and replacement of that bike id. The Citibike August report commented that during the month of Aug 23,500 bike repairs and or inspections were conducted on bike assets. It is estimated that this required approximately 1 hr per repair/inspection and 138 bike technicians to conduct those repairs. 
 
--- Investor Recommendation #6: Investing in longer lasting bikes or improved service efficiency is an area which DM Bike might save significant cost and improve profitability. Applying some additional data collection and analysis to this area could yield significant returns. 
+-- _Investor Recommendation #6_: Investing in longer lasting bikes or improved service efficiency is an area which DM Bike might save significant cost and improve profitability. Applying some additional data collection and analysis to this area could yield significant returns. 
 
 ## New York City Versus Des Moines – Proforma Financials
 
