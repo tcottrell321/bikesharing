@@ -1,4 +1,4 @@
-# The Des Moines, Iowa INvestment Opportunity for Bike Sharing Company
+# The Des Moines, Iowa Investment Opportunity for Bike Sharing Company
 
 ## Investor Analysis Overview
 This analysis is focused on answering the following questions: 
