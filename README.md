@@ -100,9 +100,9 @@ Bike Utilization – this chart shows total number of seconds used during trips 
 
 Des Moines is not New York City. But, in estimating how a bike sharing company might do in Des Moines, we picked key statistics around “Population” and Citibike and scaled those down proportionately for Des Moines – drawing some conclusions about how a Des Moines Bike Share company might perform.  Those statistics are shown below:
 
-## Proforma Financials 
-
-[Proforma]https://github.com/tcottrell321/bikesharing/blob/master/Proforma%20Financials.PNG 
+Proforma Financials: 
+![alt text](https://github.com/tcottrell321/bikesharing/blob/master/Proforma%20Financials.PNG "Logo Title Text 1")
+ 
 
 
 ## Startup Capital and Projected ROI 
