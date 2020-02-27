@@ -56,45 +56,44 @@ To support this analysis, a Tableau Storyboard can be found on Tableau’s Publi
 
 This report provides additional details below - not found in the Tableau Storyboard. 
 
-_City Population_ – this slide shows a comparison between the population of NYC and that of Des Moines for properly scaling the business. For the purposes of this analysis, it is assumed that the size of the business is proportional to the population.
+**City Population** – this slide shows a comparison between the population of NYC and that of Des Moines for properly scaling the business. For the purposes of this analysis, it is assumed that the size of the business is proportional to the population.
 
-_Bike Membership_ – during the month of Aug, Citibike had 153,726 subscription customers. Using the same ratio as population, it is projected that Des Moines will capture about 3800 subscription customers.
+**Bike Membership** – during the month of Aug, Citibike had 153,726 subscription customers. Using the same ratio as population, it is projected that Des Moines will capture about 3800 subscription customers.
 
-_Projected Revenue_ – The Revenue shows actual revenue for Citibike for the month of Aug. Des Moines is projected revenue based on the smaller number of memberships, but also factors in less $ per ride on the fare to account for the difference in cost of living.
+**Projected Revenue** – The Revenue shows actual revenue for Citibike for the month of Aug. Des Moines is projected revenue based on the smaller number of memberships, but also factors in less $ per ride on the fare to account for the difference in cost of living.
 
-_Projected Trips_ – Again, 2,344,224 is the actual number of trips during Aug for Citibike. Using this we show a projected number of trips for Des Moines of 60,719. 
+**Projected Trips** – Again, 2,344,224 is the actual number of trips during Aug for Citibike. Using this we show a projected number of trips for Des Moines of 60,719. 
 
-_Membership Versus Customers_ – the pie chart shows that approximately 80% of the rides came from Subscribers and 20% came from Customers (non-subscribers). Citibike’s Aug report further mentioned that ridership is higher for Subscribers during regular workdays (M-F) and that on weekends they see higher numbers for Customers (non-subscribers) and seasonally during tourist season. 
+**Membership Versus Customers** – the pie chart shows that approximately 80% of the rides came from Subscribers and 20% came from Customers (non-subscribers). Citibike’s Aug report further mentioned that ridership is higher for Subscribers during regular workdays (M-F) and that on weekends they see higher numbers for Customers (non-subscribers) and seasonally during tourist season. 
 
--- _Investor Recommendation #1_ : This might suggest a 2 prong marketing or promotional campaign. One for regular commuters and one for tourists. 
+-- **Investor Recommendation #1** : This might suggest a 2 prong marketing or promotional campaign. One for regular commuters and one for tourists. 
 
-_Membership By Gender_  – this pie chart depicts the gender breakdown in ridership with 25% being females, about 65% being male and about 10% unknown. There is no indication in the Citibike data as to why there is such a big difference between male and female ridership. 
+**Membership By Gender**  – this pie chart depicts the gender breakdown in ridership with 25% being females, about 65% being male and about 10% unknown. There is no indication in the Citibike data as to why there is such a big difference between male and female ridership. 
 
--- _Investor Recommendation #2_: Further drilldown can be done to see if an opportunity exists to increase overall ridership among female participants. 
+-- **Investor Recommendation #2**: Further drilldown can be done to see if an opportunity exists to increase overall ridership among female participants. 
 
-_Time of Day For Highest Utilization_ – this bar chart shows that the peak ridership is during the morning and afternoon commutes (7-9 am) and (5-6 pm). The lowest use is from 12 midnight through the early morning hours at 4 am. 
+**Time of Day For Highest Utilization** – this bar chart shows that the peak ridership is during the morning and afternoon commutes (7-9 am) and (5-6 pm). The lowest use is from 12 midnight through the early morning hours at 4 am. 
 
--- _Investor Recommendation #3_: This might be the best time for maintenance and cleaning to optimize the usage of each bike. 
+-- **Investor Recommendation #3**: This might be the best time for maintenance and cleaning to optimize the usage of each bike. 
 
-_Top Starting and Ending Locations_ – of the 781 bike stations, this bubble chart shows the highest use stations (larger bubble equals higher use). The August report comments that the busiest stations are those near major public transportation hubs and tourist attractions.
+**Top Starting and Ending Locations** – of the 781 bike stations, this bubble chart shows the highest use stations (larger bubble equals higher use). The August report comments that the busiest stations are those near major public transportation hubs and tourist attractions.
 
--- _Investor Recommendation #4_: this suggest placement of bikes at hub transportation and tourist centers (bus stations, hotels, parks) etc.  
+-- **Investor Recommendation #4**: this suggest placement of bikes at hub transportation and tourist centers (bus stations, hotels, parks) etc.  
 
-_Average Trip Duration By Age_ – this chart shows the average trip duration (in seconds) by age group. You can see that in general, younger riders (to the right on graph) are willing to ride longer distances of about 15 mins with an uptrend for riders <25 yrs old.  Older riders show times which have wider deviations in duration probably indicating more adhoc ridership from tourists. 
+**Average Trip Duration By Age** – this chart shows the average trip duration (in seconds) by age group. You can see that in general, younger riders (to the right on graph) are willing to ride longer distances of about 15 mins with an uptrend for riders <25 yrs old.  Older riders show times which have wider deviations in duration probably indicating more adhoc ridership from tourists. 
 
--- _Investor Recommendation #5_: A further drilldown on the data might reveal if this conclusion is true. 
+-- **Investor Recommendation #5**: A further drilldown on the data might reveal if this conclusion is true. 
 
-_Number of Bikes_ – Citibike currently has 12,805 bikes in their fleet. It is projected the Des Moines will initially need about 400 bikes. This number can be fine tuned with actual ridership data over time. 
+**Number of Bikes** – Citibike currently has 12,805 bikes in their fleet. It is projected the Des Moines will initially need about 400 bikes. This number can be fine tuned with actual ridership data over time. 
 
-_Bike Utilization_ – this chart shows total number of seconds used during trips for each bike id. The size of the dot and deeper color is proportional to higher utilization. Ideally, utilization which is evenly distributed across all bikes should correlate with similar repairs and maintenance. High usage for some bikes might indicate a faster wearout and replacement of that bike id. The Citibike August report commented that during the month of Aug 23,500 bike repairs and or inspections were conducted on bike assets. It is estimated that this required approximately 1 hr per repair/inspection and 138 bike technicians to conduct those repairs. 
+**Bike Utilization** – this chart shows total number of seconds used during trips for each bike id. The size of the dot and deeper color is proportional to higher utilization. Ideally, utilization which is evenly distributed across all bikes should correlate with similar repairs and maintenance. High usage for some bikes might indicate a faster wearout and replacement of that bike id. The Citibike August report commented that during the month of Aug 23,500 bike repairs and or inspections were conducted on bike assets. It is estimated that this required approximately 1 hr per repair/inspection and 138 bike technicians to conduct those repairs. 
 
--- _Investor Recommendation #6_: Investing in longer lasting bikes or improved service efficiency is an area which DM Bike might save significant cost and improve profitability. Applying some additional data collection and analysis to this area could yield significant returns. 
+-- **Investor Recommendation #6**: Investing in longer lasting bikes or improved service efficiency is an area which DM Bike might save significant cost and improve profitability. Applying some additional data collection and analysis to this area could yield significant returns. 
 
 ## New York City Versus Des Moines – Proforma Financials
 
 Des Moines is not New York City. But, in estimating how a bike sharing company might do in Des Moines, we picked key statistics around “Population” and Citibike and scaled those down proportionately for Des Moines – drawing some conclusions about how a Des Moines Bike Share company might perform.  Those statistics are shown below:
-
-Proforma Financials: 
+ 
 ![alt text](https://github.com/tcottrell321/bikesharing/blob/master/Proforma%20Financials.PNG "Logo Title Text 1")
  
 
