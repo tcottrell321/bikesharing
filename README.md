@@ -102,7 +102,7 @@ Des Moines is not New York City. But, in estimating how a bike sharing company m
 
 ## Proforma Financials 
 
-[Proforma] (  ) 
+[Proforma]https://github.com/tcottrell321/bikesharing/blob/master/Proforma%20Financials.PNG 
 
 
 ## Startup Capital and Projected ROI 
