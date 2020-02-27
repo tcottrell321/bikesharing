@@ -1,5 +1,7 @@
 # The Des Moines, Iowa Investment Opportunity for Bike Sharing Company
 
+![alt text](https://github.com/tcottrell321/bikesharing/blob/master/picture.PNG "Logo Title Text 1")
+
 ## Investor Analysis Overview
 This analysis is focused on answering the following questions: 
 1)	In the sharing economy, what is the investment opportunity in the secondary transportation market – specifically bike sharing? 
